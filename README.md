@@ -1,4 +1,4 @@
-# estudo-covid-19-quixada
+# Estudo com Dados da Covid-19 para a cidade de Quixadá-CE.
 ### Autores
 
 Ítalo Lima e Lucas Nascimento.
